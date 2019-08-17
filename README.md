@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JamesPortViewTool::Renderer.copyright 'James Hudson', 'All right reserved'
+```
 
 ## Development
 
